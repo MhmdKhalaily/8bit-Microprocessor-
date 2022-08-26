@@ -1,4 +1,4 @@
-# 8bit-Microprocessor-
+# 8bit-Microprocessor
 8 Bit Microprocessor Design Using VHDL on FPGA Purpose: 1-FPGA-based 8-bit simple microprocessor designed using the VHDL language. 
 Theory: Microprocessors are the heart of any electronic device we use in our everyday life.
 The efficiency of these processors depend on the speed of execution and simplified and reconfigurable programming. 
